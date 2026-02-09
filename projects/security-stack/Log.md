@@ -1,20 +1,43 @@
 # Security Stack - Log
 
-## 2026-02-09 – Initial baseline design
+## Purpose
+Archive of work sessions for the security stack project.
 
-### Goals
-- Define home lab network segments
-- Design VPN topology for remote access
-- Plan basic monitoring and logging
+## Format
+Each entry should include:
+1. **Date**: Session date
+2. **Goals**: What you set out to do
+3. **Key Decisions**: Important choices made
+4. **Artifacts**: Files created (with paths)
+5. **Open Questions**: New unknowns
+6. **Next Actions**: What's next
 
-### Key decisions
-- [Add decisions from thread]
+---
 
-### Artifacts
-- [Add file paths or descriptions]
+## Session Template
 
-### Open questions
-- [List unresolved items]
+### YYYY-MM-DD - [Brief Description]
 
-### Next actions
-- [Prioritized list]
+**Goals**:
+- Goal 1
+- Goal 2
+
+**Key Decisions**:
+- Decision 1: Rationale
+- Decision 2: Rationale
+
+**Artifacts**:
+- `path/to/file1.ext` - Description
+- `path/to/file2.ext` - Description
+
+**Open Questions**:
+- Question 1?
+- Question 2?
+
+**Next Actions**:
+1. Action 1
+2. Action 2
+
+---
+
+<!-- Add new sessions below -->
