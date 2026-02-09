@@ -1,22 +1,43 @@
 # AI Agent - Log
 
-## 2026-02-09 – v1 architecture
+## Purpose
+Archive of work sessions for the AI agent project.
 
-### Goals
-- Define core agent architecture
-- Design API surface
-- Plan v1 scope
+## Format
+Each entry should include:
+1. **Date**: Session date
+2. **Goals**: What you set out to do
+3. **Key Decisions**: Important choices made
+4. **Artifacts**: Files created (with paths)
+5. **Open Questions**: New unknowns
+6. **Next Actions**: What's next
 
-### Key decisions
-- [Add decisions from thread]
+---
 
-### Artifacts
-- `backend/app/main.py` – FastAPI entry point
-- `backend/app/agents/` – Core agent logic
-- `backend/app/schemas/` – Pydantic models
+## Session Template
 
-### Open questions
-- [List unresolved items]
+### YYYY-MM-DD - [Brief Description]
 
-### Next actions
-- [Prioritized list]
+**Goals**:
+- Goal 1
+- Goal 2
+
+**Key Decisions**:
+- Decision 1: Rationale
+- Decision 2: Rationale
+
+**Artifacts**:
+- `path/to/file1.ext` - Description
+- `path/to/file2.ext` - Description
+
+**Open Questions**:
+- Question 1?
+- Question 2?
+
+**Next Actions**:
+1. Action 1
+2. Action 2
+
+---
+
+<!-- Add new sessions below -->
