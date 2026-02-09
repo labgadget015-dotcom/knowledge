@@ -1,0 +1,69 @@
+# Environment variables and secrets
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+secrets/
+credentials/
+
+# API keys and tokens
+*_token
+*_key
+*_secret
+api_keys.txt
+
+# Trading system sensitive data
+*.db
+*.sqlite
+*.sqlite3
+backtest_results/
+live_trades/
+*.csv
+data/market/
+
+# Logs
+*.log
+logs/
+*.log.*
+npm-debug.log*
+yarn-debug.log*
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+env/
+
+# Node
+node_modules/
+npm-debug.log
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Personal notes (use projects/ for tracked logs)
+scratch/
+personal_notes.md
